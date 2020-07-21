@@ -14,6 +14,7 @@ const Home = () => (
 
       <p className="description">
         Get started by editing <code>pages/index.js</code>
+        Go to about  <a href="/about" className="card">About</a>    
       </p>
 
       <div className="grid">
